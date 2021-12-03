@@ -1,0 +1,12 @@
+version : Tensorflow 2.7.0
+cuda 11.5
+
+DeepLab V3 Plus Model의 모델링
+
+Camvid Dataset을 이용해서 training할 예정
+------------------------------------------------------------
+..추가 예정 코드..
+1. DataLoader에서 Augmentation하는 부분을 추가할예정
+2. RGB style의 make를 GrayScale로 바꿔줄 예정
+3. Other Class를 제거하는 전처리과정 추가 예정
+------------------------------------------------------------
